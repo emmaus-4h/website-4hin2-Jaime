@@ -1,3 +1,12 @@
+/* Basisinstellingen */
+
+* {
+  overflow: auto;
+  box-sizing: border-box;
+  margin:0px;
+  border: 1px solid white;
+}
+
 /* Basislayout */
 
 html, body {
@@ -60,6 +69,8 @@ img.maparklov {
   margin-bottom: 5px;
   height: 145px;
 }
+
+
 .smalltext {
     font-size: 0.7em;
 }
@@ -73,6 +84,31 @@ a:hover {
     
 }
 
+/* layout maps pagina */
+.rij {
+
+}
+
+.kolomlinks {
+ float: left;
+ width:50%;
+}
+
+.kolomrechts {
+ float: right;
+ width:50%;
+}
+
+.plaatje {
+padding: 10px;
+}
+.plaatje img {
+  width: 100%;
+}
+
+.tekst {
+padding:10px;
+}
 
 /* navigatiebalk */
 nav ul {
@@ -112,5 +148,11 @@ float: left;
   
 }
 
+tekstrechts {
 
+float: left;
+color: #ffffff;
+font: Verdana, Arial, Sans-Serif;
+
+}
 
