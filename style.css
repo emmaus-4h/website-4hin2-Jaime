@@ -83,6 +83,7 @@ a {
 }
 
 a:hover {
+
     
 }
 
@@ -119,6 +120,8 @@ nav ul {
     padding: 0;
     background-color: #aaaaaa;
     overflow: hidden;
+    
+    
 }
 
 nav ul li {
@@ -156,5 +159,10 @@ float: left;
 color: #ffffff;
 font: Verdana, Arial, Sans-Serif;
 
+}
+
+.video {
+width: 300px;
+border: 2px;
 }
 
