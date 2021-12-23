@@ -176,4 +176,19 @@ border: 0px;
 .kolomrechts2 {
  float: right;
  width:56%;
+ margin-left: 3px;
+}
+
+
+.kolomlinks2 {
+ float: left;
+ width:56%;
+ margin-left: 0,5px;
+}
+
+
+.kolomlinks3 {
+ float: left;
+ width:80%;
+ margin-left: 2px;
 }
